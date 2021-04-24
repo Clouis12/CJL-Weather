@@ -14,7 +14,7 @@ window.addEventListener('load', function () {
     if (!searchValue) {
       return;
     }
-    var endpoint = `http://api.openweathermap.org/data/2.5/forecast?q=${searchValue}&appid=d91f911bcf2c0f925fb6535547a5ddc9&units=imperial`;
+    var endpoint = `http://api.openweathermap.org/data/2.5/forecast?q=${searchValue}&appid=15038671c45c9502c274d6b86b0d82bb&units=imperial`;
     fetch(endpoint)
       .then((res) => res.json())
       .then((data) => {
