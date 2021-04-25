@@ -15,6 +15,8 @@ A clear button was also added for user convenience to maintain cleanliness, enab
 ![Screenshot 3](Assets/ss3.png)
 ![Screenshot 4](Assets/ss4.png)
 
+<img width="1030" alt="Screen Shot 2021-04-24 at 11 42 08 PM" src="https://user-images.githubusercontent.com/77083360/115981090-ea345200-a556-11eb-82bf-959c9f74dbca.png">
+
 
 [link to Deployed Application site!](https://clouis12.github.io/)
 
